@@ -36,7 +36,7 @@
 
 <h4 align="center">AI, Machine Learning & Data Science</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI & ML" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy" alt="AI & ML" />
 </p>
 
 <h4 align="center">Databases & ORMs</h4>
