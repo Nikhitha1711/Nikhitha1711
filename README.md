@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing SVG Animation -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+%26+React+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Python+%26+React+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
 </h2>
 
 ---
