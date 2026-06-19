@@ -24,7 +24,7 @@
 
 <h4 align="center">Frontend & UI</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,bootstrap" alt="Frontend & UI" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,bootstrap" alt="Frontend & UI" />
 </p>
 
 <h4 align="center">Backend & APIs</h4>
@@ -39,12 +39,12 @@
 
 <h4 align="center">Databases & ORMs</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Databases" />
 </p>
 
 <h4 align="center">DevOps, Cloud & Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vscode,linux" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" alt="DevOps & Tools" />
 </p>
 
 ---
