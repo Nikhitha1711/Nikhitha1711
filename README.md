@@ -5,10 +5,18 @@
 
 <!-- Dynamic Typing SVG Animation -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Python+%26+React+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+%26+React+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
 </h2>
 
+<!-- GitHub Profile Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nikhitha1711&theme=dracula&no-background=true&no-border=true" alt="Trophies" />
+  </a>
+</div>
+
 ---
+
 
 ### 👨‍💻 About Me
 
@@ -19,14 +27,13 @@
 *   📫 How to reach me: **[nikhithasajjala738@gmail.com](mailto:nikhithasajjala738@gmail.com)**
 *   ⚡ Fun fact: *I love turning complex problems into elegant solutions!*
 
-
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <h4 align="center">Frontend & UI</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,bootstrap" alt="Frontend & UI" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,bootstrap" alt="Frontend & UI" />
 </p>
 
 <h4 align="center">Backend & APIs</h4>
@@ -44,12 +51,12 @@
 
 <h4 align="center">Databases & ORMs</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="Databases" />
 </p>
 
 <h4 align="center">DevOps, Cloud & Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vscode,linux" alt="DevOps & Tools" />
 </p>
 
 ---
