@@ -11,8 +11,9 @@
 <!-- GitHub Profile Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nikhitha1711&theme=dracula&no-background=true&no-border=true" alt="Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=Nikhitha1711&theme=dracula&no-background=true&no-border=true" alt="Trophies" />
   </a>
+
 </div>
 
 ---
