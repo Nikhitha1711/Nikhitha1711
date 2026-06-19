@@ -10,13 +10,15 @@
 
 ---
 
-👨‍💻 About Me
-🔭 I’m currently working on AI/ML and Full-Stack Projects
-🌱 I’m currently learning Advanced System Architecture & Cloud Native Technologies
-👯 I’m looking to collaborate on Open Source Projects & Innovative AI Tools
-💬 Ask me about Python, React, Next.js, and Machine Learning
-📫 How to reach me: nikhithasajjala738@gmail.com
-⚡ Fun fact: I love turning complex problems into elegant solutions!
+### 👨‍💻 About Me
+
+*   🔭 I’m currently working on **AI/ML and Full-Stack Projects**
+*   🌱 I’m currently learning **Advanced System Architecture & Cloud Native Technologies**
+*   👯 I’m looking to collaborate on **Open Source Projects & Innovative AI Tools**
+*   💬 Ask me about **Python, React, Next.js, and Machine Learning**
+*   📫 How to reach me: **[nikhithasajjala738@gmail.com](mailto:nikhithasajjala738@gmail.com)**
+*   ⚡ Fun fact: *I love turning complex problems into elegant solutions!*
+
 
 ---
 
