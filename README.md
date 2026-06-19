@@ -8,16 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+%26+React+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
 </h2>
 
-<!-- GitHub Profile Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.devomb.com/?username=Nikhitha1711&theme=dracula&no-background=true&no-border=true" alt="Trophies" />
-  </a>
-
-</div>
-
 ---
-
 
 ### 👨‍💻 About Me
 
