@@ -15,7 +15,7 @@
 *   🔭 I’m currently working on **AI/ML and Full-Stack Projects**
 *   🌱 I’m currently learning **Advanced System Architecture & Cloud Native Technologies**
 *   👯 I’m looking to collaborate on **Open Source Projects & Innovative AI Tools**
-*   💬 Ask me about **Python, React, Next.js, and Machine Learning**
+*   💬 Ask me about **Python, Java, HTML, SQL, Artificial Intelligence, and Machine Learning**
 *   📫 How to reach me: **[nikhithasajjala738@gmail.com](mailto:nikhithasajjala738@gmail.com)**
 *   ⚡ Fun fact: *I love turning complex problems into elegant solutions!*
 
@@ -25,7 +25,7 @@
 
 <h4 align="center">Frontend & UI</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,bootstrap" alt="Frontend & UI" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" alt="Frontend & UI" />
 </p>
 
 <h4 align="center">Backend & APIs</h4>
